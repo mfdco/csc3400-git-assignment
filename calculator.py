@@ -18,7 +18,7 @@ def div(x, y) :
     if isinstance(x, str) or isinstance(y, str) :
         print('Can\'t input a string, must be a number\t')
     if y != 0 :
-        return x // y
+        return x / y
     else :
         return "Undefined, can't divide by zero"
 
