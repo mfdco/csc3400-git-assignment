@@ -19,7 +19,7 @@ def main() :
 
             continue
 
-        num = int(input("Enter the number: "))
+        num = float(input("Enter the number: "))
 
         if operation == "add" :
             total = calculator.add(total, num)
