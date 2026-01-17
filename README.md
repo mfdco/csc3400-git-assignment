@@ -1,4 +1,4 @@
-Project titie : "My Software Engineering Project"
+Project titie : "Teammates Project"
 Marcos Felipe Ornelas, 1308576
 
 Installation Instrucutions : 
