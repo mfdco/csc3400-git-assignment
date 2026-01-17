@@ -1,4 +1,4 @@
-Project titie : "Teammates Project"
+COMPLETELY DIFFERENT NAME
 Marcos Felipe Ornelas, 1308576
 
 Installation Instrucutions : 
