@@ -1,3 +1,3 @@
-Project titie : "My Software Engineering Project"
+Project titie : "Python Calculator"
 Marcos Felipe Ornelas, 1308576
-This repo will contain basic operation files using python, an intro to working with branches, merging conflicts, and resolution.
+This repo will contain a calculator made in python and perform math operatins like adding, subtracting, dividing, multiplying, squaring, and power multiplication.
