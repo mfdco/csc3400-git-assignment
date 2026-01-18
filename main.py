@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 '''
+=======
+>>>>>>> feature/user-interface
 import calculator
 
 def main() :
@@ -20,7 +23,11 @@ def main() :
 
             continue
 
+<<<<<<< HEAD
         num = int(input("Enter the number: "))
+=======
+        num = float(input("Enter the number: "))
+>>>>>>> feature/user-interface
 
         if operation == "add" :
             total = calculator.add(total, num)
@@ -47,5 +54,9 @@ def main() :
     print(total)
 
 if __name__ == "__main__" :
+<<<<<<< HEAD
     main()
 '''
+=======
+    main()
+>>>>>>> feature/user-interface
