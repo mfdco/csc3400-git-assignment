@@ -1,4 +1,4 @@
-COMPLETELY DIFFERENT NAME VERY DIFFERENT
+Project title : "My Software Engineering Project"
 Marcos Felipe Ornelas, 1308576
 
 Installation Instrucutions : 
