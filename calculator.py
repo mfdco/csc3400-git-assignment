@@ -12,7 +12,7 @@ def div(x, y) :
     if y != 0 :
         return x / y
     else :
-        return "undefined"
+        return "undefined, becuase you cannot divide by 0"
 
 def power(x, y) :
     return x ** y
