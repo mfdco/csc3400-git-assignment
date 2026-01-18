@@ -1,0 +1,1 @@
+I added a sentenced and some spaces in wach calculator file. Pushed the main repo, and tried pulling with the clone, which had a change, and there was an error. Resolved the error by adding/removing sentences and spaces to match both programs together. 
