@@ -19,7 +19,7 @@ def power(x, y) :
 
 def square_root(x) :
     if x < 0 :
-        return "imaginary number, you cannot find square root of negative number"
+        return "imaginary number, you cannot find square root of negative number  "
     else :
         return int(x ** 0.5)
 
