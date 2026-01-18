@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project title : "My Software Engineering Project"
 Marcos Felipe Ornelas, 1308576
 
@@ -19,3 +20,8 @@ Usage Examples :
 Features : 
 
 	Ease of use calculator that can do simple arithmatic for you.
+=======
+Project titie : "Python Calculator"
+Marcos Felipe Ornelas, 1308576
+This repo will contain a calculator made in python and perform math operatins like adding, subtracting, dividing, multiplying, squaring, and power multiplication.
+>>>>>>> b3a25d4baa236c9361bbe1eb28a796cd89105401
